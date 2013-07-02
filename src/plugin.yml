@@ -1,0 +1,7 @@
+name: TotalFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 2.20
+description: Plugin for the Total Freedom server.
+authors: [StevenLawson / Madgeek1450, JeromSar / DarthSalamon]
+
+# plugin.yml is no longer used to define commands.
