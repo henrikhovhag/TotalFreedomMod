@@ -34,7 +34,7 @@ public class Command_smite extends TFM_Command
 
         TFM_Util.bcastMsg(p.getName() + " has been a naughty, naughty boy.", ChatColor.RED);
 
-        //Deop
+        //Deopall
         p.setOp(false);
 
         //Set gamemode to survival:
